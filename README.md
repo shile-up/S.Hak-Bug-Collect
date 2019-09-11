@@ -1,6 +1,6 @@
 # S.Hak-Bug-Collect
 
-整理漏洞，收集或编写POC
+整理漏洞，收集或编写POC（项目未开）
 
 
 
