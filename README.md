@@ -8,6 +8,6 @@ BugList： 漏洞列表
 
 BugPoc： 漏洞POC
 
-main.py: 快速调用脚本
+main.py:  快速调用脚本
 
-main.sh： 快速调用脚本
+main.sh:  快速调用脚本
